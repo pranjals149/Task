@@ -1,0 +1,20 @@
+.counter {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.counter__count {
+    padding: 50px;
+    border-radius: 10px;
+    background-color: lightblue;
+    box-shadow: 1px 1px;
+}
+
+.counter__button > button {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    color: white;
+    border: none;
+}
